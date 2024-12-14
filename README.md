@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mukuta-Manit-D?tab=repositories](https://github.com/Mukuta-Manit-D?tab=repositories)
+- 👨‍💻 All of my projects are available [HERE](https://github.com/Mukuta-Manit-D?tab=repositories)
 
 - 📫 How to reach me **mukutamanitd6@gmail.com**
 
