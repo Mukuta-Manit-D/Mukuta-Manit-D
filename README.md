@@ -31,7 +31,7 @@
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Mukuta-Manit-D&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Mukuta-Manit-D&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src=[![GitHub Streak](https://streak-stats.demolab.com?user=Mukuta-Manit-D&theme=transparent&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) />
+  <img width=325 align="center" src="https://streak-stats.demolab.com?user=Mukuta-Manit-D&theme=transparent&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)" />
 </div>
 
   <br/>
