@@ -39,9 +39,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukuta-Manit-D&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="height: 300px; width: 300px;" />
   </a>
 </div>
-<br/>
-
-  <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mukuta (d) manit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukuta (d) manit" height="30" width="40" /></a>
