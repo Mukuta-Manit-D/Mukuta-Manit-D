@@ -29,9 +29,9 @@
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mukuta-Manit-D&theme=blue-green" alt="GitHub Streak" /></a>
-  <img style="width: 33%;" src="https://github-readme-stats.vercel.app/api?username=Mukuta-Manit-D&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img style="width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-Tiwari24&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
+  <a href="https://gh-stats-gen.vercel.app/"><img src="https://github-readme-stats.vercel.app/api?username=Mukuta-Manit-D&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak" /></a>
+  <a href="https://gh-stats-gen.vercel.app/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukuta-Manit-D&theme=blueberry&hide_border=true" /></a>
+  <a href="https://gh-stats-gen.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukuta-Manit-D&theme=blueberry&show_icons=true&hide_border=true&layout=compact" /></a>
 </div>
 <br/>
 
