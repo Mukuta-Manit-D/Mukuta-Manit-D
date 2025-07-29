@@ -27,17 +27,14 @@
 <br/>
 <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://gh-stats-gen.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mukuta-Manit-D&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="height: 300px; width: 300px;" />
-  </a>
-  <a href="https://gh-stats-gen.vercel.app/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukuta-Manit-D&theme=blueberry&hide_border=true" alt="GitHub Streak" style="height: 300px; width: 300px;" />
-  </a>
-  <a href="https://gh-stats-gen.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukuta-Manit-D&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="height: 300px; width: 300px;" />
-  </a>
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukuta-Manit-D&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="200"/>
+  &nbsp;&nbsp;
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukuta-Manit-D&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="200"/>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mukuta (d) manit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukuta (d) manit" height="30" width="40" /></a>
