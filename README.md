@@ -3,8 +3,7 @@
 <img align = "right" alt = "coding"  src = "https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukuta-manit-d&label=Profile%20views&color=0e75b6&style=flat" alt="mukuta-manit-d" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukuta-manit-d" alt="mukuta-manit-d" /></a> </p>
-
+<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=Mukuta-Manit-D)](https://github.com/ryo-ma/github-profile-trophy)
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 👨‍💻 All of my projects are available [HERE](https://github.com/Mukuta-Manit-D?tab=repositories)
